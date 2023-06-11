@@ -10,6 +10,6 @@
     <title>Document</title>
 </head>
 <body>
-    <?php include '../../templates/sesion.html'?>
+    <?php include '../../templates/index.html'?>
 </body>
 </html>
